@@ -49,7 +49,7 @@ Set2={2,4,7,9,"Hi",True,"Thursday"}
 
 #Union or | or update() - Joins 2 sets
 Unionset = Set1 | Set2
-print("Unuon of 2 sets",Unionset)
+print("Union of 2 sets",Unionset)
 
 Unionset=Set1.union(Exset,set1)
 
